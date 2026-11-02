@@ -34,6 +34,8 @@ pip install -e ".[dev]"
 pytest
 ```
 
+> **Première contribution ?** Suis le [guide pas à pas depuis le navigateur](docs/premiere-contribution-navigateur.md).
+
 ## 3. Travailler
 
 ```bash
